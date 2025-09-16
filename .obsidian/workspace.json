@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3f03598f0e80d9aa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1bbea4781ce07d2c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
         "id": "740c22bb8dbf9e7c",
         "type": "tabs",
         "children": [
           {
-            "id": "9d8fdcc8b089e408",
+            "id": "01b5ddfda85d8e6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Templates/Full Note.md",
+                "file": "This is my first file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Full Note"
-            }
-          },
-          {
-            "id": "2335ad8b355c0625",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "This is my first file"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2335ad8b355c0625",
+  "active": "fab2c40802a605d4",
   "lastOpenFiles": [
+    "This is my first file.md",
     "Welcome.md",
     "5 - Templates/Full Note.md",
     "5 - Templates",
